@@ -1,0 +1,1 @@
+In this little project we are going to create a simple html website that have an index who contains links to recipes, for now it gonna look simple because we dont gonna add css styling.
